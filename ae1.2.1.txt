@@ -1,0 +1,3 @@
+Changed database context to 'adventureworks'.
+Msg 208, Level 16, State 1, Server 11fb07c6287f, Line 1
+Invalid object name 'SalesLT.vProductsRoadBikes'.

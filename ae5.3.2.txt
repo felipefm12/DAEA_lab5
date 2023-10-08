@@ -1,0 +1,6 @@
+Changed database context to 'adventureworks'.
+result              
+--------------------
+Between 5 and 10    
+
+(1 rows affected)

@@ -1,0 +1,7 @@
+Changed database context to 'adventureworks'.
+ProductID  
+-----------
+        864
+        976
+
+(2 rows affected)

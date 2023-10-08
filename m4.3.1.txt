@@ -1,0 +1,6 @@
+Changed database context to 'adventureworks'.
+Products    Categories  AveragePrice         
+----------- ----------- ---------------------
+        295          37              744.5952
+
+(1 rows affected)

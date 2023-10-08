@@ -1,0 +1,4 @@
+Msg 111, Level 15, State 1, Server 11fb07c6287f, Line 1
+'CREATE FUNCTION' must be the first statement in a query batch.
+Msg 137, Level 15, State 2, Server 11fb07c6287f, Line 12
+Must declare the scalar variable "@CustomerID".

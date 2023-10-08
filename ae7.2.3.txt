@@ -1,0 +1,6 @@
+Changed database context to 'adventureworks'.
+           
+-----------
+
+(0 rows affected)
+Error

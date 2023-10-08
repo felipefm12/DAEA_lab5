@@ -1,0 +1,6 @@
+Changed database context to 'adventureworks'.
+totalnum   
+-----------
+         10
+
+(1 rows affected)

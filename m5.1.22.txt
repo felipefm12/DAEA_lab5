@@ -1,0 +1,8 @@
+Changed database context to 'adventureworks'.
+
+(1 rows affected)
+LatestIdentityInDB                       LatestCallID                            
+---------------------------------------- ----------------------------------------
+                                       8                                        8
+
+(1 rows affected)

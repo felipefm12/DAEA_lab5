@@ -1,0 +1,5 @@
+[url "https://"]   
+    insteadOf = git://
+[user]
+	email = jorge.flores.m@tecsup.edu.pe
+	name = felipefm12

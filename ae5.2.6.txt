@@ -1,0 +1,2 @@
+Msg 137, Level 15, State 2, Server 11fb07c6287f, Line 1
+Must declare the scalar variable "@empname".

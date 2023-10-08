@@ -1,0 +1,6 @@
+Changed database context to 'adventureworks'.
+           
+-----------
+        851
+
+(1 rows affected)

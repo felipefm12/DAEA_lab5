@@ -1,0 +1,91 @@
+Changed database context to 'adventureworks'.
+ProductID   Name                                               ListPrice            
+----------- -------------------------------------------------- ---------------------
+        680 HL Road Frame - Black, 58                                      1431.5000
+        706 HL Road Frame - Red, 58                                        1431.5000
+        717 HL Road Frame - Red, 62                                        1431.5000
+        718 HL Road Frame - Red, 44                                        1431.5000
+        719 HL Road Frame - Red, 48                                        1431.5000
+        720 HL Road Frame - Red, 52                                        1431.5000
+        721 HL Road Frame - Red, 56                                        1431.5000
+        739 HL Mountain Frame - Silver, 42                                 1364.5000
+        740 HL Mountain Frame - Silver, 44                                 1364.5000
+        741 HL Mountain Frame - Silver, 48                                 1364.5000
+        742 HL Mountain Frame - Silver, 46                                 1364.5000
+        743 HL Mountain Frame - Black, 42                                  1349.6000
+        744 HL Mountain Frame - Black, 44                                  1349.6000
+        745 HL Mountain Frame - Black, 48                                  1349.6000
+        746 HL Mountain Frame - Black, 46                                  1349.6000
+        747 HL Mountain Frame - Black, 38                                  1349.6000
+        748 HL Mountain Frame - Silver, 38                                 1364.5000
+        749 Road-150 Red, 62                                               3578.2700
+        750 Road-150 Red, 44                                               3578.2700
+        751 Road-150 Red, 48                                               3578.2700
+        752 Road-150 Red, 52                                               3578.2700
+        753 Road-150 Red, 56                                               3578.2700
+        754 Road-450 Red, 58                                               1457.9900
+        755 Road-450 Red, 60                                               1457.9900
+        756 Road-450 Red, 44                                               1457.9900
+        757 Road-450 Red, 48                                               1457.9900
+        758 Road-450 Red, 52                                               1457.9900
+        771 Mountain-100 Silver, 38                                        3399.9900
+        772 Mountain-100 Silver, 42                                        3399.9900
+        773 Mountain-100 Silver, 44                                        3399.9900
+        774 Mountain-100 Silver, 48                                        3399.9900
+        775 Mountain-100 Black, 38                                         3374.9900
+        776 Mountain-100 Black, 42                                         3374.9900
+        777 Mountain-100 Black, 44                                         3374.9900
+        778 Mountain-100 Black, 48                                         3374.9900
+        779 Mountain-200 Silver, 38                                        2319.9900
+        780 Mountain-200 Silver, 42                                        2319.9900
+        781 Mountain-200 Silver, 46                                        2319.9900
+        782 Mountain-200 Black, 38                                         2294.9900
+        783 Mountain-200 Black, 42                                         2294.9900
+        784 Mountain-200 Black, 46                                         2294.9900
+        785 Mountain-300 Black, 38                                         1079.9900
+        786 Mountain-300 Black, 40                                         1079.9900
+        787 Mountain-300 Black, 44                                         1079.9900
+        788 Mountain-300 Black, 48                                         1079.9900
+        789 Road-250 Red, 44                                               2443.3500
+        790 Road-250 Red, 48                                               2443.3500
+        791 Road-250 Red, 52                                               2443.3500
+        792 Road-250 Red, 58                                               2443.3500
+        793 Road-250 Black, 44                                             2443.3500
+        794 Road-250 Black, 48                                             2443.3500
+        795 Road-250 Black, 52                                             2443.3500
+        796 Road-250 Black, 58                                             2443.3500
+        797 Road-550-W Yellow, 38                                          1120.4900
+        798 Road-550-W Yellow, 40                                          1120.4900
+        799 Road-550-W Yellow, 42                                          1120.4900
+        800 Road-550-W Yellow, 44                                          1120.4900
+        801 Road-550-W Yellow, 48                                          1120.4900
+        837 HL Road Frame - Black, 62                                      1431.5000
+        838 HL Road Frame - Black, 44                                      1431.5000
+        839 HL Road Frame - Black, 48                                      1431.5000
+        840 HL Road Frame - Black, 52                                      1431.5000
+        885 HL Touring Frame - Yellow, 60                                  1003.9100
+        887 HL Touring Frame - Yellow, 46                                  1003.9100
+        888 HL Touring Frame - Yellow, 50                                  1003.9100
+        889 HL Touring Frame - Yellow, 54                                  1003.9100
+        890 HL Touring Frame - Blue, 46                                    1003.9100
+        891 HL Touring Frame - Blue, 50                                    1003.9100
+        892 HL Touring Frame - Blue, 54                                    1003.9100
+        893 HL Touring Frame - Blue, 60                                    1003.9100
+        953 Touring-2000 Blue, 60                                          1214.8500
+        954 Touring-1000 Yellow, 46                                        2384.0700
+        955 Touring-1000 Yellow, 50                                        2384.0700
+        956 Touring-1000 Yellow, 54                                        2384.0700
+        957 Touring-1000 Yellow, 60                                        2384.0700
+        966 Touring-1000 Blue, 46                                          2384.0700
+        967 Touring-1000 Blue, 50                                          2384.0700
+        968 Touring-1000 Blue, 54                                          2384.0700
+        969 Touring-1000 Blue, 60                                          2384.0700
+        970 Touring-2000 Blue, 46                                          1214.8500
+        971 Touring-2000 Blue, 50                                          1214.8500
+        972 Touring-2000 Blue, 54                                          1214.8500
+        973 Road-350-W Yellow, 40                                          1700.9900
+        974 Road-350-W Yellow, 42                                          1700.9900
+        975 Road-350-W Yellow, 44                                          1700.9900
+        976 Road-350-W Yellow, 48                                          1700.9900
+
+(86 rows affected)

@@ -1,0 +1,5 @@
+Changed database context to 'adventureworks'.
+Msg 2812, Level 16, State 62, Server 11fb07c6287f, Line 7
+Could not find stored procedure 'dbo.GetErrorInfo'.
+Msg 8134, Level 16, State 1, Server 11fb07c6287f, Line 4
+Divide by zero error encountered.
